@@ -54,7 +54,7 @@
   },
   "addons": [
   {
-    "plan": "heroku-postgresql",
+    "plan": "Eco dyno",
     "options": {"version": "12"}
   }
   ],
